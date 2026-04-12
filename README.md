@@ -21,10 +21,10 @@
 
 **Desenvolvimento:**
 
-<img height="40" src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js" alt="Tecnologias de Desenvolvimento" />
+<img height="50" src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js" alt="Tecnologias de Desenvolvimento" />
 
 <br>
 
 **Design & Edição:**
 
-<img height="40" src="https://skillicons.dev/icons?i=ae,pr,ps,ai,figma" alt="Tecnologias de Design e Edição" />
+<img height="50" src="https://skillicons.dev/icons?i=ae,pr,ps,ai,figma" alt="Tecnologias de Design e Edição" />
