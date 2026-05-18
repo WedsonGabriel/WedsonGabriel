@@ -27,4 +27,4 @@
 
 **Design & Edição:**
 
-<img height="50" src="https://skillicons.dev/icons?i=ae,pr,ps,ai,figma" alt="Tecnologias de Design e Edição" />
+<img height="50" src="https://skillicons.dev/icons?i=ae,pr,ps,figma,affinity" alt="Tecnologias de Design e Edição" />
