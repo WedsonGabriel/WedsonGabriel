@@ -9,7 +9,7 @@
 
 ### 🌟 Sobre mim
 
-* 🎓 Cursando o 2º período de **Análise e Desenvolvimento de Sistemas** no IFRN
+* 🎓 Cursando o 3º período de **Análise e Desenvolvimento de Sistemas** no IFRN
 * 🎨 Trago um background criativo com mais de **7 anos de experiência atuando como designer e editor de vídeos**.
 * 🏆 **Programador competitivo**: treinando algoritmos e resolução de problemas com foco na **Maratona de Programação da SBC**.
 * 💻 Atualmente imerso no **Desenvolvimento Web** (HTML, CSS, JavaScript) e resolvendo problemas lógicos com **Java e C++**.
