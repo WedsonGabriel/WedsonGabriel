@@ -21,7 +21,7 @@
 
 **Desenvolvimento:**
 
-<img height="50" src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js" alt="Tecnologias de Desenvolvimento" />
+<img height="50" src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,tailwind" alt="Tecnologias de Desenvolvimento" />
 
 <br>
 
